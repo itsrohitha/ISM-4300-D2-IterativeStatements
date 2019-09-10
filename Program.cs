@@ -24,7 +24,7 @@ namespace ISM_4300_D2_IterativeStatements
                 }
                 else
                 {
-                    Console.WriteLine("Please enter an integer between 1 and 20 and try again ...");
+                    Console.WriteLine("Please enter an integer between 1 and 100 and try again ...");
                     Console.WriteLine("Press any key to exit the program and try again ...");
                     Console.ReadKey(true);
                 }

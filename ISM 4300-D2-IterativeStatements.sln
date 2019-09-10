@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISM 4300-D2-IterativeStatements", "ISM 4300-D2-IterativeStatements.csproj", "{2264CAF0-6FBA-4EC0-AAA0-544BA946C33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2264CAF0-6FBA-4EC0-AAA0-544BA946C33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2264CAF0-6FBA-4EC0-AAA0-544BA946C33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2264CAF0-6FBA-4EC0-AAA0-544BA946C33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2264CAF0-6FBA-4EC0-AAA0-544BA946C33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2B973E-83CA-4BF5-A6A3-3783D3FD5D53}
+	EndGlobalSection
+EndGlobal
